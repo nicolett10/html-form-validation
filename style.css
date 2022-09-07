@@ -1,0 +1,7 @@
+*.is-invalid{
+    background-color:#f8d7da !important;
+    border: 1px solid red;
+}
+*small{
+    color:#f15353f3 ;
+}
